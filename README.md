@@ -1,2 +1,0 @@
-# webGLInfiniteScroller
-Created with CodeSandbox
